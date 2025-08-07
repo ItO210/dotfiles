@@ -1,4 +1,4 @@
-# Why are you looking? (¬_¬)
+# Why are you here??? (¬_¬)
 
 ## Tmux
 For tmux plugins:
